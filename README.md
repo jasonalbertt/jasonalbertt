@@ -7,7 +7,7 @@
 
 - ✅ I have completed **UI Design for Train Station Kiosk**
 
-- 🤝 I’m looking for help with **Python projects**
+- 🤝 I’m looking for help with **Python projects and Photoshop/Illustrator**
 
 - 📫 How to reach me **jalbert8@outlook.com**
 
