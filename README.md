@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">An IT/Cyber student at Sacred Heart University</h3>
 
-- 🔭 I’m currently working on **Adding a database to existing HTML and CSS**
+- 🔭 I’m currently working on **Designing a Database and UI for an online shopping company**
 
 - 🌱 I’m currently learning **PHP, MYSQL, Cybersecurity foundations**
 
