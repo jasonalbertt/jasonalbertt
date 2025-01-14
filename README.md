@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">An IT/Cyber student at Sacred Heart University</h3>
 
-- 🔭 I’m currently working on **Designing a Database and UI for an online shopping company**
+- 🔭 I’m currently working on **A project that allows sports fans to engage with stats and player info of the game they are watching**
 
-- 🌱 I’m currently learning **PHP, MYSQL, Cybersecurity foundations**
+- 🌱 I’m currently learning **PHP, SQL, Cybersecurity foundations**
 
 - ✅ I have completed **UI Design for Train Station Kiosk**
 
